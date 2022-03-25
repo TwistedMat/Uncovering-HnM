@@ -1,4 +1,4 @@
-# Uncovering-HnM 👗👖🛍️
+# Uncovering H&M 👗👖🛍️
 ## Does H&amp;M's data tell us something about them that they themselves are unaware of? 
 
 Using [H&Ms Kaggle dataset](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview), we have analyzed their purchases over a course of 2 years and attempted to create value through the power of EDA, an often ignored aspect of Data Science. 
